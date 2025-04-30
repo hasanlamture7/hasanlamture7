@@ -87,5 +87,7 @@ I’m passionate about leveraging programming, machine learning, and cloud compu
 English | Hindi | Marathi
 
 ---
+![Snake animation](https://github.com/hasanlamture7/hasanlamture7/blob/output/github-contribution-grid-snake.svg)
+
 
 📌 *Let's connect and collaborate on AI, ML, and IoT innovations!*
