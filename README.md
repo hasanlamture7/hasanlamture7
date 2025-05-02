@@ -5,6 +5,7 @@
 📞 +91 7887475954  
 📧 mahamadhasanlamture7@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/hasanlamture) | [GitHub](https://github.com/hasanlamture)
+![](https://komarev.com/ghpvc/?username=your-github-hasanlamture7&abbreviated=true)
 
 ---
 
