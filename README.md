@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Md Hasan Lamture
 
-🎓 B.Tech in Artificial Intelligence and Data Science | 🤖 ML & IoT Enthusiast | 🌐 Aspiring MLOps Engineer
+🎓 B.Tech in Artificial Intelligence and Data Science | 🤖 ML & Programming Enthusiast | 🌐 Aspiring MLOps Engineer
 ![](https://komarev.com/ghpvc/?username=your-github-hasanlamture7&abbreviated=true)
 
 📞 +91 7887475954  
