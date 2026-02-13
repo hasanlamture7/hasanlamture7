@@ -4,8 +4,8 @@ B.Tech in Artificial Intelligence and Data Science | ML & Programming Enthusiast
 ![](https://komarev.com/ghpvc/?username=your-github-hasanlamture7&abbreviated=true)
 
 +91 7887475954  
-lamturehasan123@gmail.com
-[LinkedIn](https://www.linkedin.com/in/hasanlamture) | [GitHub](https://github.com/hasanlamture)
+- lamturehasan123@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/hasanlamture) | [GitHub](https://github.com/hasanlamture)
 
 
 ---
@@ -21,7 +21,7 @@ I’m passionate about leveraging programming, machine learning, and cloud compu
 **Languages:** Python, Java, SQL  
 **Frameworks & Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib  
 **Tools & Platforms:** Flask, MySQL, SQLite, Power BI, Excel, Jupyter Notebook, VS Code,PowerBI  
-**Cloud:** AWS (EC2, IAM, S3, EBS)  
+**Cloud:** AWS   
 **Soft Skills:** Excellent Communication, Team Collaboration, Detail-Oriented
 
 ---
@@ -34,12 +34,12 @@ I’m passionate about leveraging programming, machine learning, and cloud compu
 - Integrated IoT devices with ML systems  
 - Worked with data processing tools like NumPy, Pandas, and Scikit-learn
 
-### ☁️ One IT Solution — *Cloud Computing Intern*  
+### One IT Solution — *Cloud Computing Intern*  
 `Jul 2023 – Aug 2023`  
 - Learned cloud fundamentals  
 - Worked with AWS (EC2, IAM, S3, EBS)
 
-### 🗃️ One IT Solution — *Database Technologies Intern*  
+###  One IT Solution — *Database Technologies Intern*  
 `Jan 2023 – Feb 2023`  
 - Learned the basics of DBMS and SQL  
 - Hands-on with MySQL and data modeling
@@ -49,7 +49,8 @@ I’m passionate about leveraging programming, machine learning, and cloud compu
 ##  Projects
 ### 🔹[E-Commerce wesite for Electronics Component](https://github.com/hasanlamture7/E-com)
 
-### 🔹[ML-Powered House Price Estimator](https://ml-powered-house-price-estimator.onrender.com/)  Web app that predicts house prices using trained ML model
+### 🔹[ML-Powered House Price Estimator](https://ml-powered-house-price-estimator.onrender.com/)  
+- Web app that predicts house prices using trained ML model
 
 ### 🔹[Simple-Quiz-Application-using-React-Vita](https://github.com/hasanlamture7/Simple-Quiz-Application-using-React-Vita)
 
@@ -57,10 +58,12 @@ I’m passionate about leveraging programming, machine learning, and cloud compu
 
 ### 🔹[Document-PDF-Text-Extractor](https://github.com/hasanlamture7/Document-PDF-Text-Extractor)
 
-### 🔹[Disease Prediction and Doctor Recommendation System](https://patilsudesh.pythonanywhere.com/) Predicts diseases based on symptoms and recommends relevant doctors    
+### 🔹[Disease Prediction and Doctor Recommendation System](https://patilsudesh.pythonanywhere.com/) 
+- Predicts diseases based on symptoms and recommends relevant doctors    
 - End-to-end ML system deployed on PythonAnywhere
 
-### 🔹[Legal Case System with Chat-Bot](https://github.com/hasanlamture7/Indian-Court-Management-System-Integrated-with-Law-GPT)   A smart legal management system with chatbot integration for Indian law queries  
+### 🔹[Legal Case System with Chat-Bot](https://github.com/hasanlamture7/Indian-Court-Management-System-Integrated-with-Law-GPT)   
+- A smart legal management system with chatbot integration for Indian law queries  
 
 ---
 
